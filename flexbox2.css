@@ -1,0 +1,50 @@
+.body-container {
+    background-color: #CFFAFF;
+}
+.flex-container {
+    background-color: #CFFAFF;
+    text-align: center;
+    font-size: 40px;
+    font-family: Calibri;
+    color: white;
+    height: 480px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.flexbox-item-1 {
+    background-color: #A3E771;
+    width: 250px;
+    margin: 10px;
+    line-height: 450px;
+}
+.flexbox-item-image-container{
+    background-color: #FFBB42;
+    width: 1100px;
+    height: 460px;
+    margin: 10px;
+    align-self: center;
+}
+.flexbox-item-2 {
+    height: 250px;
+    line-height: 450px;
+}
+.flexbox-images {
+    display: flex;
+    justify-content: space-around;
+}
+#flex-image {
+    background-color: #FFD142;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    margin: 2px;
+}
+.header-footer-container {
+    background-color: #1AC6C0;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    font-family: Calibri;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
